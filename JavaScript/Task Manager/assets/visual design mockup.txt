@@ -6,4 +6,4 @@
 │ ✔️ Learn JavaScript       [Delete]     │
 │ ❌ Build Project          [Delete]     │
 │ ✔️ Buy Groceries          [Delete]     │
-└───────────────────────────────────────┘
+└───────────────────────────────────────┘ 
